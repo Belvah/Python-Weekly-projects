@@ -36,6 +36,30 @@ A command-line guessing game where the computer picks a random number between 1 
 
 - Python 3.14.3.
 
+## Contributing
+
+1. Fork this repository.
+2. Create a new branch for your feature:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add your feature description"
+   ```
+4. Push to your branch:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. Open a Pull Request on GitHub.
+
+### Ideas for Contributions
+
+- Add a timer to track how fast players guess the number
+- Add more hint types (e.g., range narrowing, prime/not prime)
+- Add multiplayer support (take turns guessing)
+- Improve leaderboard with date/time stamps
+
 ## Contact
 
 Belvah Shanyisa
