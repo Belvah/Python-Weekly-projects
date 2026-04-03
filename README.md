@@ -63,5 +63,7 @@ A command-line guessing game where the computer picks a random number between 1 
 ## Contact
 
 Belvah Shanyisa
-+254711223344
+belvah@gmail.com
+GitHub: [Belvah](https://github.com/Belvah)
+
 
